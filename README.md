@@ -29,7 +29,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFDeZcqEEWVASFYFCRZppajHj6HGfv7bq4A&s" width="40" height="40" alt="Retrofit"/>
   <strong> Retrofit</strong>
 </p>
----
+
 
 ## 🌟 Overview
 
@@ -51,7 +51,7 @@ The goal is to empower farmers with AI-driven insights for day-to-day decision m
 | Plant.id API     | Image-based plant disease detection |
 | Retrofit         | RESTful API networking          |
 
----
+
 
 ## 📱 App Screenshots
 
