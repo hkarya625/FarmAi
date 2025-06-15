@@ -84,13 +84,12 @@ The goal is to empower farmers with AI-driven insights for day-to-day decision m
 
 ## 🎥 App Demo
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch Demo" width="400"/>
+<p align="left">
+  <a href="https://ik.imagekit.io/sqjmtpu26/FarmAi_Demo_video.mp4?updatedAt=1749972497425" target="_blank">
+    <img src="https://t4.ftcdn.net/jpg/02/55/94/55/360_F_255945532_gXYb4gPaatBY39i9KIte3K38KH3lJYIq.jpg" alt="Watch Demo" width="50"/>
   </a>
 </p>
 
-> 🔗 Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 
 ---
 
