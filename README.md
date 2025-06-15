@@ -1,13 +1,34 @@
 <h1 align="center">🌾 FarmAi - Your Smart Farming Assistant 🌿</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/built%20with-Kotlin-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-Gemini-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image%20Detection-Plant.id-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/networking-Retrofit-yellow?style=for-the-badge"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+  <strong> Kotlin</strong>
 </p>
 
+<p align="left">
+  <img src="https://developer.android.com/images/logos/jetpack-compose.svg" width="40" height="40" alt="Jetpack Compose"/>
+  <strong> Jetpack Compose</strong>
+</p>
+
+<p align="left">
+  <img src="https://www.pngall.com/wp-content/uploads/16/Google-Gemini-Logo-Transparent-thumb.png" width="40" height="40" alt="Gemini API"/>
+  <strong> Gemini API (Google AI)</strong>
+</p>
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdrzms50WkruV9OgS2BKrNetPxz4Uno4qLg&s" width="40" height="40" alt="Plant.id"/>
+  <strong> Plant.id API</strong>
+</p>
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41ltBL464WK9XbgYPHUBvDZjeTz89VxrmBFAzDTesxn9LYSfgs6g1K1yDY7lkPmgbWtQ&usqp=CAU" width="40" height="40" alt="Android"/>
+  <strong> Android</strong>
+</p>
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFDeZcqEEWVASFYFCRZppajHj6HGfv7bq4A&s" width="40" height="40" alt="Retrofit"/>
+  <strong> Retrofit</strong>
+</p>
 ---
 
 ## 🌟 Overview
@@ -36,9 +57,9 @@ The goal is to empower farmers with AI-driven insights for day-to-day decision m
 
 <table>
   <tr>
-    <td><img src="images/Splash_Screen" width="200"/></td>
-    <td><img src="images/home.png" width="200"/></td>
-    <td><img src="images/text_query.png" width="200"/></td>
+    <td><img src="images/Splash_Screen.jpg" width="200"/></td>
+    <td><img src="images/Home_screen.jpg" width="200"/></td>
+    <td><img src="images/Query_screen.jpg" width="200"/></td>
   </tr>
   <tr>
     <td align="center">Splash Screen</td>
@@ -49,8 +70,8 @@ The goal is to empower farmers with AI-driven insights for day-to-day decision m
 
 <table>
   <tr>
-    <td><img src="images/image_query.png" width="200"/></td>
-    <td><img src="images/image_result.png" width="200"/></td>
+    <td><img src="images/Image_query_screen.jpg" width="200"/></td>
+    <td><img src="images/Image_query_response_screen.jpg" width="200"/></td>
   </tr>
   <tr>
     <td align="center">Image Upload</td>
@@ -58,7 +79,6 @@ The goal is to empower farmers with AI-driven insights for day-to-day decision m
   </tr>
 </table>
 
-> 📂 Place all screenshots in a folder called `images/` in your repo.
 
 ---
 
@@ -74,17 +94,6 @@ The goal is to empower farmers with AI-driven insights for day-to-day decision m
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgements
 
